@@ -14,3 +14,10 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.third-bg{
+    width: 100%;
+    height: 345px;
+    background-image: url(../img.png/image\ 6.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

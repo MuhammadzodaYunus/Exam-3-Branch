@@ -7,3 +7,10 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.second-bg{
+    width: 80%;
+    height: 285px;
+    background-image: url(../img.png/bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
